@@ -1,0 +1,15 @@
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\ClienteTcp.csproj.AssemblyReference.cache
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\ClienteTcp.GeneratedMSBuildEditorConfig.editorconfig
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\ClienteTcp.AssemblyInfoInputs.cache
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\ClienteTcp.AssemblyInfo.cs
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\ClienteTcp.csproj.CoreCompileInputs.cache
+D:\descargas\clientettcp consola\ClienteTcp\bin\Debug\net6.0\ClienteTcp.exe
+D:\descargas\clientettcp consola\ClienteTcp\bin\Debug\net6.0\ClienteTcp.deps.json
+D:\descargas\clientettcp consola\ClienteTcp\bin\Debug\net6.0\ClienteTcp.runtimeconfig.json
+D:\descargas\clientettcp consola\ClienteTcp\bin\Debug\net6.0\ClienteTcp.dll
+D:\descargas\clientettcp consola\ClienteTcp\bin\Debug\net6.0\ClienteTcp.pdb
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\ClienteTcp.dll
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\refint\ClienteTcp.dll
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\ClienteTcp.pdb
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\ClienteTcp.genruntimeconfig.cache
+D:\descargas\clientettcp consola\ClienteTcp\obj\Debug\net6.0\ref\ClienteTcp.dll
